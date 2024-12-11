@@ -25,3 +25,4 @@ print(f"hello {name}")
 # Im Fehlerfall bitte eure "Debugging"-Kenntnisse nutzen und die Fehler identifizieren.
 
 print(a+str(d))
+
