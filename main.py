@@ -27,6 +27,7 @@ print(f"hello {name}")
 
 print(a+str(d))
 
+
 # Dateimanipulation
 # Öffnen der Datei im Lesemodus und Lesen des gesamten Inhalts
 with open("beispiel.txt", "r") as datei:
