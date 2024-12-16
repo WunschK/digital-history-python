@@ -39,7 +39,7 @@ while(n < 100):
         print(n)
 
 
-# 5) Ersetze alle Zahlen die durch drei und fünf teilbar sind durch "digital history"
+# 5) Ersetze alle Zahlen die durch drei teilbar sind durch "Digital" und die die durch fünf teilbar sind durch "history". Zahlen die durch beides teilbar sind durch "digital history"
 
 n = 0
 while(n < 100):
