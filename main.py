@@ -1,56 +1,57 @@
-# Variablen
+# Eine Funktion schreiben
+def digital_history(n, m):
+    while(n < m):
+        n = n + 1
+        if(n % 3 == 0 and n % 5 == 0):
+            print("digital history")
+        else:
+            print(n)
+
+# Die erstellte Funktion ausführen
+digital_history(n=7, m=20)
+
+
+# import einer Bibliothek
+import csv
+from pprint import pprint
+
+with open('gefangenenbuecher_heidelberg.csv') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        pprint(row['Einlieferung'])
+
+
 import pandas as pd
+import matplotlib.pyplot as plt
+from datetime import datetime as dt
+
+df = pd.read_csv('gefangenenbuecher_heidelberg.csv')
+
+
+df['Einlieferung'] = pd.to_datetime(df['Einlieferung'],format='%d.%m.%y')
+df['Entlassung'] = pd.to_datetime(df['Entlassung'],format='%d.%m.%y')
+
+df['duration (days)'] = (df['Entlassung'] - df['Einlieferung']).dt.days
+print(df.head())
 
 
 
+# Create the bar chart
+plt.bar(df['Zuname'], df['duration (days)'], color='skyblue')
 
-a = 2
-b = "hello "
-c = 'world'
-d= "4"
-# Debugging
+# Add labels and title
+plt.title('Haftdauer', fontsize=16)
+plt.xlabel('Name', fontsize=14)
+plt.ylabel('Dauer', fontsize=14)
 
-# string manipulation
-print(b+c)
+# Rotate x-axis labels for readability
+plt.xticks(rotation=90)
 
-
-print(f"hello {c}")
-
-name = input("wie lautet dein Name")
-
-print(f"hello {name}")
+# Display the bar chart
+plt.tight_layout()
+plt.show()
 
 
-# Erstellt einen Namensgenerator für euer Projekt.
-# Es sollen Variablen genutzt werden, und User input.
-# Im Fehlerfall bitte eure "Debugging"-Kenntnisse nutzen und die Fehler identifizieren.
-
-print(a+str(d))
-
-
-# Dateimanipulation
-# Öffnen der Datei im Lesemodus und Lesen des gesamten Inhalts
-with open("beispiel.txt", "r") as datei:
-    inhalt = datei.read()  # Liest den gesamten Dateiinhalt
-print(inhalt)
-
-# Öffnen der Datei und Lesen der ersten Zeile
-with open("beispiel.txt", "r") as datei:
-    erste_zeile = datei.readline()  # Liest nur die erste Zeile
-print(erste_zeile.strip())
-
-# Lesen aller Zeilen und Speichern als Liste
-with open("beispiel.txt", "r") as datei:
-    zeilen = datei.readlines()  # Liest alle Zeilen in eine Liste
-print(zeilen)
-
-# Schreiben von Text in die Datei (überschreibt den Inhalt)
-with open("beispiel.txt", "w") as datei:
-    datei.write("Das ist ein neuer Text.\n")  # Schreibt eine Zeile in die Datei
-
-# Schreiben mehrerer Zeilen auf einmal
-zeilen = ["Zeile 1\n", "Zeile 2\n", "Zeile 3\n"]
-with open("beispiel.txt", "w") as datei:
-    datei.writelines(zeilen)  # Schreibt die Liste von Zeilen in die Datei
+filtered_df = df[df['duration (days)'] > 60]
 
 

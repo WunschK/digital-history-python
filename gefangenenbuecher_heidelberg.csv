@@ -1,0 +1,339 @@
+Zuname,Vorname,wie oft in SH,Einlieferung,Entlassung,,Geschlecht,Entlassung in die Freihei ja/nein,"falls überstellt, wohin? (reguläre Haftanstalt oder Kislau/Ankenbuk",wann überstellt?,Beruf
+Skowronski,Georg,1,10.03.33,22.06.33,0,m,ja,,,Schumacher
+Mann,Eugen,1,11.03.33,26.04.33,0,m,nein,Kislau,26.04.33,Installateur
+Böhner,Anton,1,11.03.33,26.04.33,0,m,nein,Kislau,26.04.33,Invalide
+Penkert,Ernst,1,11.03.33,03.05.33,0,m,ja,,,Photograph
+Benz,Franz,2,11.03.33,01.04.33,0,m,ja,,,Zimmermann
+Tant,Heinrich,1,11.03.33,12.04.33,0,m,ja,,,Student
+Noe,Karl,1,11.03.33,26.04.33,0,m,nein,Kislau,26.04.33,Arbeiter
+Frick,Alfred,1,11.03.33,26.04.33,1,m,nein,Kislau,26.04.33,ohne Beruf
+Rimmler,Fritz,2,11.03.33,12.04.33,21,m,ja,,,Schuldiener
+Ihrig,Georg,2,11.03.33,13.04.33,22,m,ja,,,städt. Arbeiter
+Beiler,Heinrich,1,11.03.33,26.04.33,23,m,nein,Kislau,26.04.33,Metzger
+Illgenheimer,Joseph,1,11.03.33,26.04.33,25,m,nein,Kislau,26.04.33,Tagelöhner
+Beckelnick,Gottfried,1,11.03.33,26.04.33,26,m,nein,Kislau,26.04.33,Mieter
+Ottenheimer,Irmein?,1,11.03.33,17.05.33,26,m,nein,Kislau,17.05.33,Bankbeamter
+Zimmermann,Ernst,1,11.03.33,01.04.33,27,m,ja,,,Matrose
+Salzmann,Karl,2,11.03.33,01.04.33,29,m,ja,,,Polsterer
+Pfleger,Franz,1,11.03.33,03.05.33,29,m,ja,,,Schmied
+Safferling,Josef,1,11.03.33,26.04.33,34,m,nein,Kislau,26.04.33,Steinhauer
+Schimmer,Alfred,1,11.03.33,01.04.33,35,m,ja,,,Bergmann
+David,Salomon,1,11.03.33,15.04.33,37,m,ja,,,Kaufmann
+Wolf,Ludwig,1,11.03.33,01.04.33,40,m,ja,,,Schriftsetzer
+Klingmann,Leonhard,1,12.03.33,26.04.33,40,m,ja,Kislau,26.04.33,Arbeiter
+Kind,Paul,1,13.03.33,02.05.33,40,m,ja,,,Ingenieur
+Gärtner,Hans,2,14.03.33,26.04.33,40,m,nein,Kislau,26.04.33,Hoteldiener
+Klein,Emil,1,14.03.33,27.04.33,43,m,ja,,,Metalldrücker
+Kritzler,Heinz,1,15.03.33,21.06.33,44,m,ja,,,Student
+Schütz,Hermann,1,17.03.33,20.04.33,44,m,ja,,,Werkzeugmacher
+Max,Bock,1,18.03.33,25.04.33,49,m,ja,,,Kom. Abgeordneter
+Bender,Otto,1,18.03.33,04.04.33,50,m,ja,,,Schlosser
+Zinser,Ernst,1,20.03.33,04.04.33,56,m,ja,,,Arbeiter
+Gärtner,Johannes,1,20.03.33,04.04.33,50,m,ja,,,Monteur
+Trost,Heinrich,1,20.03.33,04.04.33,56,m,ja,,,Tagelöhner
+Richter,Wilhelm,1,20.03.33,04.04.33,52,m,ja,,,Former
+Pfirsching,Wolfgang,1,20.03.33,04.04.33,44,m,ja,,,Tagelöhner
+Haist,Friedrich,1,21.03.33,26.04.33,43,m,nein,Kislau,26.04.33,Metzger
+Böhm,Wilhelm,1,22.03.33,05.04.33,43,m,ja,,,Maurer
+Sauer,Franz,1,22.03.33,12.04.33,44,m,ja,,,Maurer
+Bretzer,Georg,1,23.03.33,26.04.33,42,m,nein,Kislau,26.04.33,Schriftsetzer
+Roth,Rudolf Wilhelm,1,23.03.33,01.04.33,43,m,ja,,,Schlosser
+Iehle,Karl,1,23.03.33,02.05.33,42,m,nein,Kislau,02.05.33,Kaufmann
+Zimmermann,Ludwig,1,27.03.33,10.04.33,43,m,ja,,,Maurer
+Ziegler,Friedrich,1,27.03.33,09.05.33,40,m,ja,,,Tagelöhner
+Bauhammer,Maria,2,27.03.33,02.04.33,39,f,ja,,,Korbmacherin
+Heck,Heinrich,1,28.03.33,15.04.33,39,m,ja,,,Bäcker
+Anderson,Emil,1,30.03.33,13.04.33,34,m,ja,,,Tagelöhner
+Kalbrunner,Franz,1,30.03.33,07.04.33,35,m,ja,,,Schreinermeister
+Volk,Heinrich,1,30.03.33,07.04.33,37,m,ja,,,Spengler
+Kraft,Anton,1,30.03.33,04.04.33,37,m,ja,,,Hilfsarbeiter
+Luntz,Anton,1,30.03.33,04.04.33,37,m,ja,,,Schreiner
+Oswald,Anton,1,31.03.33,03.04.33,37,m,ja,,,Chauffeur
+Hoffmann,Mathias,3,01.04.33,12.04.33,41,m,ja,,,Maler
+Laier,Emil,1,01.04.33,03.04.33,39,m,ja,,,Maler
+David,Max,1,01.04.33,17.05.33,42,m,nein,Kislau,17.05.33,Kaufmann
+Geibel,Otto,1,01.04.33,12.04.33,47,m,ja,,,Restaurator
+Freund,Max,1,01.04.33,08.04.33,52,m,ja,,,Makler
+Freund,Heinrich,1,01.04.33,08.04.33,35,m,ja,,,Kaufmann
+Grebel,Fridolin,1,03.04.33,06.04.33,34,m,ja,,,Arbeiter
+Trost,Emil,1,03.04.33,03.04.33,33,m,ja,,,Kaufmann
+Bierwas,Fritz,1,03.04.33,03.04.33,25,m,ja,,,Kaufmann
+Vetter,Anton,1,03.04.33,03.04.33,36,m,ja,,,Kaufmännischer Geschäftsführer
+Mais,Erwin,1,03.04.33,03.04.33,45,m,ja,,,Maschinist
+Oelschläger,Anton,1,03.04.33,07.04.33,52,m,ja,,,Schlosser
+Hock,Emil,1,03.04.33,05.04.33,51,m,ja,,,Schreiner
+Bandolo,Johann,1,04.04.33,08.05.33,53,m,ja,,,Tagelöhner
+Schäfer,Johann,1,04.04.33,04.04.33,46,m,ja,,,Maurermeister
+Katarginsky,Franz,1,05.04.33,22.04.33,42,m,ja,,,Schlosser
+Sauer,Fritz,1,06.04.33,20.04.33,43,m,ja,,,Schreiner
+Treiber,Georg,1,07.04.33,12.04.33,44,m,ja,,,Former
+Maschner,Hermann,2,08.04.33,11.04.33,43,m,ja,,,Arbeiter
+Frei,Wilhelm,1,08.04.33,15.04.33,39,m,ja,,,Maurer
+Weber,Georg,1,08.04.33,15.04.33,45,m,ja,,,Zimmermann
+Treiber,Leonhard,1,08.04.33,15.04.33,41,m,ja,,,Schuhmacher
+Bitter,Ludwig,1,10.04.33,11.04.33,35,m,ja,,,Schlosser
+Banschbach,August,1,12.04.33,08.05.33,35,m,ja,,,Bäcker
+Maschner,Hermann,2,12.04.33,26.04.33,35,m,ja,,,Arbeiter
+Hillenbrand,Karl,1,12.04.33,26.04.33,28,m,ja,,,Hausdiener
+Lupu,Simon,1,13.04.33,05.05.33,25,m,ja,,,Schreiner
+Martin,Albert,1,13.04.33,24.04.33,25,m,ja,,,Gärtner
+Klauditz,Friedrich,1,13.04.33,26.04.33,20,m,ja,,,Fräser
+Petersen,August,1,14.04.33,22.04.33,20,m,ja,,,Kaufmann
+Keller,Friedrich,1,15.05.33,05.05.33,19,m,ja,,,Feinmechaniker
+Maisch,Karl,1,17.04.33,17.04.33,19,m,ja,,,Schlosser
+Beck,Marta,1,18.04.33,06.05.33,19,f,ja,,,Krankenschwester
+Baumann,Alfred,1,18.04.33,26.04.33,19,m,ja,,,Schmied
+Kappes,Ferdinand,1,18.04.33,22.04.33,20,m,ja,,,Matrose
+Fath,Friedrich,1,21.04.33,01.05.33,21,m,ja,,,Gärtner
+Bauhammer,Maria,2,21.04.33,28.04.33,22,f,ja,,,Artistin
+Mender,Johann,1,22.04.33,24.04.33,22,m,ja,,,Arbeiter
+Honig,Michael,1,22.04.33,26.04.33,14,m,ja,,,Landarbeiter
+Knebel,Richard,1,22.04.33,26.04.33,14,m,ja,,,Former
+Burkhardt,Heinrich,1,22.04.33,26.04.33,13,m,nein,Kislau,,Arbeiter
+Kovaczovics,Karl,1,23.04.33,26.04.33,14,m,ja,,,Kaufmann
+Gieser,Rudolf,2,24.04.33,29.04.33,13,m,ja,,,Maler
+Black,Richard,1,24.04.33,25.04.33,7,m,ja,,,Arbeiter
+Hiebl,Ludwig,1,24.04.33,25.04.33,7,m,ja,,,Tagelöhner
+Bader,Maria Magdalena,1,25.04.33,03.06.33,6,f,ja,,,?
+Bader,Elsa,1,25.04.33,03.06.33,6,f,ja,,,Näherin
+Metzger,Corina,1,25.04.33,19.05.33,6,f,ja,,,Ehefrau
+Mettenheimer,Karl,1,25.04.33,26.04.33,5,m,nein,Kislau,26.04.33,Schriftsetzer
+Wettstein,Walter,1,25.04.33,28.04.33,5,m,ja,,,Arbeiter
+Müller,Jakob,2,25.04.33,26.04.33,5,m,ja,,,Kontrolleur
+Engelhardt,Adolf,1,25.04.33,29.05.33,5,m,ja,,,Maler
+Zwissler,Ruppert,1,26.04.33,05.05.33,5,m,ja,,,Kellner
+Siegmann,Karl,1,26.04.33,29.04.33,5,m,ja,,,Gipser
+Zöll,August,1,26.04.33,29.04.33,6,m,ja,,,Installateur
+Schwöbel,Erwin,1,26.04.33,29.04.33,6,m,ja,,,Maurer
+Schmitt,Ludwig,2,26.04.33,29.04.33,12,m,ja,,,Maler
+Müller,Hans,1,26.04.33,29.04.33,13,m,ja,,,Gärtner
+Beiler,Hans,2,26.04.33,16.05.33,15,m,ja,,,Bäcker
+Appel,Leonhard,1,26.04.33,29.04.33,16,m,ja,,,Maurer
+Riegler,Philipp,1,27.04.33,28.04.33,13,m,ja,,,Maurer
+Kronauer,Alfons,1,27.04.33,29.04.33,12,m,ja,,,Metzger
+Vörg,Burkhard,1,27.04.33,28.04.33,11,m,ja,,,Sattler
+Lechner,Karl,1,27.04.33,04.05.33,14,m,ja,,,?
+Beiler,Hans,2,27.04.33,30.04.33,12,m,ja,,,Bäcker
+Lutz,Friedrich,1,29.04.33,29.05.33,13,m,nein,Heuberg,29.05.33,Arbeiter
+Leonhardt,Julius,1,29.04.33,21.05.33,14,m,ja,,,Maschinenschlosser
+Gieser,Rudolf,2,29.04.33,02.05.33,15,m,ja,,,Maler
+Rigo,Albert,1,01.05.33,04.05.33,26,m,ja,,,Zementeur
+Stadler,Hannes,1,01.05.33,26.05.33,24,m,ja,,,Schlosser
+Runz,Heinrich,1,01.05.33,10.05.33,26,m,ja,,,Schlosser
+Heid,Karl,1,01.05.33,17.05.33,26,m,ja,,,Tüncher
+Eppinger,Karl,3,01.05.33,19.05.33,29,m,ja,,,Schreiner
+Junghans,Georg,1,01.05.33,16.05.33,30,m,ja,,,Schlosser
+Heid,Fritz,1,01.05.33,17.05.33,30,m,ja,,,Arbeiter
+Knörr,Ludwig,1,01.05.33,26.05.33,31,m,ja,,,Zimmermann
+Stadler,Georg,1,01.05.33,06.05.33,32,m,ja,,,Tagelöhner
+Knörr,Fritz,1,01.05.33,19.05.33,36,m,ja,,,Zimmermann
+Stoll,Georg,1,01.05.33,19.05.33,37,m,ja,,,Arbeiter
+Sauer,Karl,1,01.05.33,19.05.33,39,m,ja,,,Arbeiter
+Michenfelder,Ernst,1,02.05.33,06.05.33,34,m,nein,reguläre Haftanstalt,06.05.33,?
+Schmaus,Hans,1,02.05.33,05.05.33,36,m,ja,,,gewerkschaftlicher Angestellte
+Wolf,Marie,1,02.05.33,02.05.33,36,f,ja,,,Sekretärin
+Hauer,Valentin,1,02.05.33,04.05.33,36,m,ja,,,Wirt
+Schell,Fritz,1,02.05.33,05.05.33,37,m,ja,,,Vorstand
+Brückner,Kurt,1,02.05.33,05.05.33,38,m,ja,,,Untersekretär
+Blessing,Georg,1,02.05.33,05.05.33,38,m,ja,,,Professor
+Kaltschmitt,Walter,1,02.05.33,04.05.33,36,m,ja,,,Schreiner
+Börr,Heinrich,1,02.05.33,03.05.33,36,m,ja,,,Glaser
+Niederbüchl,Fritz,1,02.05.33,29.05.33,35,m,ja,,,keine Angabe
+Knödler,Heinrich,1,03.05.33,06.05.33,33,m,ja,,,Maler
+Bareny,Ludwig,1,03.05.33,06.05.33,33,m,ja,,,?
+Lenz,Adam,1,03.05.33,29.05.33,32,m,ja,,,Arbeiter
+Schardt,Valentin,1,03.05.33,16.05.33,32,m,ja,,,Maurer
+Ritter,Georg,1,03.05.33,11.05.33,33,m,ja,,,Arbeiter
+Schmitt,Friedrich,1,03.05.33,12.05.33,33,m,ja,,,Maler
+Schmitt,Alfred,1,03.05.33,10.05.33,34,m,ja,,,Monteur
+Böhm,Georg,1,03.05.33,09.05.33,35,m,ja,,,Schreiner
+Klöppinger,Ludwig,1,03.05.33,05.05.33,49,m,ja,,,Maler
+Fränkel,Annemaira,1,03.05.33,04.05.33,49,f,ja,,,Fürsorgerin
+Wilmann,Karl Franz,1,03.05.33,05.05.33,53,m,ja,,,Professor
+Schoff,Erhard,1,04.05.33,05.05.33,55,m,ja,,,Direktor
+Grüber,Fritz,1,04.05.33,07.05.33,56,m,ja,,,Schlosser
+Rehberger,Peter,1,05.05.33,18.05.33,56,m,ja,,,Schlosser
+Dörr,Nikolaus,1,05.05.33,12.05.33,56,m,ja,,,Bäcker
+Zung,Georg,1,05.05.33,10.05.33,53,m,ja,,,Maurer
+Christmann,Daniel,1,05.05.33,12.05.33,51,m,ja,,,Zimmerer
+Dörr,Wilhelm,1,05.05.33,12.05.33,57,m,ja,,,Tagelöhner
+Gregan,Karl,1,05.05.33,12.05.33,28,m,ja,,,Tagelöhner
+Markel,Karl,1,05.05.33,16.05.33,28,m,ja,,,Maurer
+Kadler,Emil,1,06.05.33,10.05.33,28,m,ja,,,Maler
+Eppinger,Karl,3,06.05.33,10.05.33,26,m,ja,,,Arbeiter
+Foslag,Ernst,1,07.05.33,29.05.33,26,m,nein,Heuberg,29.05.33,Kaufmann
+Sauer,Lorenz,1,08.05.33,11.05.33,25,m,ja,,,Hilfsarbeiter
+Klein,Fritz,2,08.05.33,29.05.33,25,m,nein,Heuberg,29.05.33,Bauarbeiter
+Brünig,Georg,1,09.05.33,03.06.33,23,m,ja,,,Tüncher
+Weiß,Heinrich,1,09.05.33,03.06.33,22,m,ja,,,Zimmermann
+Fliskin,Samuel,1,09.05.33,13.05.33,20,m,ja,,,Student
+Maschner,Anita,1,10.05.33,16.05.33,20,f,ja,,,Verkäuferin
+Amhein,Josef,1,11.05.33,17.05.33,20,m,nein,Kislau,17.05.33,Arbeiter
+Kuhn,Hermann,1,12.05.33,13.05.33,21,m,ja,,,Verwaltungsdirektor
+Bartman,Jakob,1,12.05.33,16.05.33,22,m,ja,,,Geschäftsführer
+Rink,Julius,1,12.05.33,16.05.33,56,m,ja,,,Architekt
+Holl,Friedrich,1,12.05.33,16.05.33,40,m,ja,,,Architekt
+Händel,Kurt,1,12.05.33,13.05.33,18,m,ja,,,Tüncher
+Schulz,Hens,1,12.05.33,13.05.33,18,m,ja,,,Schreiner
+Leib,Ludwig,1,12.05.33,13.05.33,18,m,ja,,,Zimmermann
+Löschmann,Jenter,1,12.05.33,13.05.33,18,m,ja,,,Maurer
+Salzmann,Hermann,1,13.05.33,13.07.33,18,m,ja,,,Kaufmann
+Beutel,Anton,1,17.05.33,03.06.33,18,m,ja,,,Schreiner
+Heus,Johannes,1,18.05.33,22.05.33,13,m,ja,,,Installateur
+Zellerer,Karl,1,18.05.33,31.05.33,12,m,ja,,,Kaufmann
+Kieswetter (Polano),Erwin Max,1,19.05.33,03.06.33,11,m,ja,,,Sportlehrer
+Sauer,Joseph,1,23.05.33,02.06.33,13,m,ja,,,Küfer
+Hoffmann,Heinrich,1,26.05.33,29.05.33,13,m,nein,Heuberg,29.05.33,Arbeiter
+Bäunig,Franz,1,27.05.33,06.09.33,13,m,nein,Heuberg,06.09.33,Schlosser
+Rosenthal,Siegfried,1,27.05.33,29.05.33,14,m,nein,Heuberg,29.05.33,Kaufmann
+Schütz,Fritz,1,27.05.33,08.06.33,14,m,ja,,,Schreiner
+Müller,Philipp,1,28.05.33,26.06.33,7,m,ja,,,Maurer
+Kugler,Karl,1,02.06.33,05.06.33,6,m,ja,,,Lackierer
+Ackermann,Heribald,1,15.06.33,24.06.33,6,m,ja,,,Zimmermann
+Weiß,Robert,1,17.06.33,28.07.33,6,m,ja,,,Fuhrmann
+Kann,Fritz,1,17.06.33,20.06.33,5,m,ja,,,Bäcker
+Bender,Hans,1,17.06.33,26.06.33,2,m,ja,,,Kaufmann
+Welker,Oskar,1,17.06.33,21.08.33,2,m,ja,,,Schlosser
+Jung,Emil,1,17.06.33,24.06.33,2,m,ja,,,…binder
+Fritz,Eugen,1,17.06.33,20.06.33,2,m,ja,,,Maurer
+Hochstätter,Gertrud,1,18.06.33,20.06.33,2,f,ja,,,Angestellte
+Knauber,Richard,1,19.06.33,10.07.33,2,m,ja,,,…binder
+Korell,Karl,1,19.06.33,20.06.33,2,m,ja,,,Student
+Hoffmann,Mathias,3,20.06.33,10.07.33,2,m,ja,,,Maler
+Kiesel,Albert,1,21.06.33,10.07.33,2,m,ja,,,Tagarbeiter
+Deißler,Albert,1,24.06.33,27.06.33,1,m,ja,,,Kaufmann
+Kilger,Friedrich,1,24.06.33,01.07.33,1,m,ja,,,Angestellter
+Rausch,Adolf,1,24.06.33,10.07.33,1,m,ja,,,?
+Schmitt,Wilhelm,1,26.06.33,11.07.33,1,m,ja,,,Hilfsarbeiter
+Heittemzwei,Ernst,1,27.06.33,21.08.33,1,m,ja,,,Gewerkschafter
+Fieger,Alfons,1,27.06.33,29.06.33,1,m,nein,reguläre Haftanstalt,29.06.33,Professor
+Winteroll,Fritz,1,27.06.33,29.06.33,1,m,nein,reguläre Haftanstalt,29.06.33,Polizeibeamter
+Heinz,Stern,1,28.06.33,29.06.33,1,m,nein,reguläre Haftanstalt,29.06.33,Student
+Marschall,Walter,1,28.06.33,07.08.33,1,m,ja,,,Schlosser
+Stähle,Gertrud,1,29.06.33,30.06.33,1,f,ja,,,Verkäuferin
+Jung geb. Lutz,Luise,1,29.06.33,06.07.33,,f,ja,,,Hausfrau
+Reichel,Renate,1,29.06.33,07.08.33,,f,ja,,,Sternotypistin
+Dreßler,Johann,1,29.06.33,07.08.33,,m,ja,,,Student
+Listenberger,Fritz,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Hausdiener
+Jung,Johannes,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Schumacher
+Wolf,Karl,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Monteur
+Schneider,Paul,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Baudagist?
+Marieu,Wilhelm,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Kaufmann
+Meier,Hans,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Angestellter
+Heilig,Hans,1,29.06.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Schlosser
+Klein,Fritz,2,30.06.33,04.07.33,,m,ja,,,Angestellter
+Deckert,Franziska,1,01.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Sch?
+Deckert,Elke,1,02.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Sch?
+Trautmann,Friedrich,1,03.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Zimmermann
+Schubach,Felix,1,04.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,…binder
+Löselmann,Adam,1,05.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Kaufmann
+Beisel,Gerta,1,06.07.33,06.07.33,,m,ja,,,Angestellte
+Heilig,Karl,1,07.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Schlosser
+Bühler,Emma,1,08.07.33,07.08.33,,f,nein,reguläre Haftanstalt,07.08.33,Konto…?
+Bühler,Johanna,1,09.07.33,07.08.33,,f,nein,reguläre Haftanstalt,07.08.33,kfm Lehrling
+Frey,Fritz,1,10.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Angestellter
+Wickelhäusser,Erika,1,11.07.33,06.07.33,,f,ja,,,ohne Beruf
+Gottschalk,Karl,1,12.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Angestellter
+Wuidisch,Maria,1,13.07.33,07.08.33,,f,nein,reguläre Haftanstalt,07.08.33,Zeitungsträgerin
+Rinklein,Elisabeth,1,14.07.33,07.08.33,,f,nein,reguläre Haftanstalt,07.08.33,Verkäuferin
+Arndt,Helmuth,1,15.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Schuster
+Stähle,Karl,1,16.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Maler
+Kraufer,Fritz,1,01.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Schlosser
+Schlesser,Fritz,1,01.07.33,07.08.33,,m,nein,reguläre Haftanstalt,07.08.33,Schlosser
+Hardt,August,1,03.07.33,17.07.33,,m,ja,,,Schlosser
+Legenhard,Anton,1,03.07.33,17.07.33,,m,ja,,,Maler
+Hess,Johann,1,07.07.33,20.07.33,,m,ja,,,Arbeiter
+Wäsch,Heinrich Karl,1,07.07.33,30.06.33,,m,ja,,,Zurichter
+Jochin,Hermann,1,07.07.33,22.07.33,,m,ja,,,Heizer
+Müller,Jakob,2,08.07.33,10.07.33,,m,ja,,,Maßkontrolleur
+Koll,Georg,1,08.07.33,08.07.33,,m,ja,,,Kaufmann
+Hofmann,Ada ,1,08.07.33,12.08.33,,m,nein,reguläre Haftanstalt,12.08.33,Mechaniker
+Henne,Erwin,1,09.07.33,16.08.33,,m,nein,reguläre Haftanstalt,16.08.33,Metzger
+Kirschner,Alwin,1,10.07.33,20.07.33,,m,ja,,,…führer
+Glock,Anton,1,12.07.33,12.07.33,,m,ja,,,Tagelöhner
+Wetzel,Adam,1,12.07.33,19.07.33,,m,ja,,,Gärtner
+?,Friedrich,1,25.07.33,28.07.33,,m,ja,,,Kaufmann
+Wolf,?,1,27.07.33,07.09.33,,m,ja,,,Arbeiter
+Thiel,Paul,1,28.07.33,03.08.33,,m,ja,,,Polizeihauptwachmeister
+Keinwandel,Karl,1,29.07.33,05.08.33,,m,ja,,,Bankbeamter
+Salzmann,Karl,2,29.07.33,29.08.33,,m,ja,,,Polsterer
+Krauth,Karl,1,29.07.33,29.08.33,,m,ja,,,Steinmetz
+Zöll,Johann,1,29.07.33,24.08.33,,m,nein,reguläre Haftanstalt,24.08.33,Maurer
+De?,Erwin,1,29.07.33,07.08.33,,m,ja,,,Arbeiter
+Fe?,Hans,1,29.07.33,06.09.33,,m,nein,Heuberg,06.09.33,Arbeiter
+Frey,Karl,1,29.07.33,10.08.33,,m,ja,,,?
+Ungerer,Karl,1,29.07.33,21.08.33,,m,ja,,,Friseur
+Walz,Karl,1,29.07.33,21.08.33,,m,ja,,,Elektromonteur
+Pigo,Albert,1,29.07.33,22.08.33,,m,ja,,,Arbeiter
+Führer,Karl,1,29.07.33,04.08.33,,m,ja,,,Friseur
+Peslinghoff,Wilhelm,1,29.07.33,12.08.33,,m,ja,,,Schlosser
+Feigenschulz,Hans,1,29.07.33,21.08.33,,m,ja,,,Cheuffeur
+Frey Geb. Schmitt,Katharina,1,29.07.33,20.09.33,,m,ja,,,ohne Beruf
+Höller,Wilhelm,1,29.07.33,22.08.33,,m,ja,,,Schlosser
+Pender,Wilhelm,1,29.07.33,07.08.33,,m,ja,,,Tagelöhner
+Schmid,Heinrich,1,31.07.33,04.08.33,,m,ja,,,Tagelöhner
+Rein,Johann,1,31.07.33,04.08.33,,m,ja,,,Weber
+Schmitt,Ludwig,2,31.07.33,10.08.33,,m,ja,,,Kaufmann
+Neuberger,Max,1,31.07.33,10.08.33,,m,ja,,,Kaufmann
+Peusch,Philipp,1,01.08.33,16.08.33,,m,nein,Kislau,16.08.33,Polizeiwachtmeister
+Hauff,Hans Walter,1,01.08.33,03.08.33,,m,ja,,,Student
+Heinmann,Wilhelm,1,02.08.33,05.08.33,,m,nein,Klinik,,Schlosser
+Wenig,Friedrich,1,04.08.33,07.08.33,,m,ja,,,Litograph
+Straub,Georg,1,04.08.33,15.08.33,,m,ja,,,Schlosser
+Haber,Otto,1,07.08.33,06.09.33,,m,nein,Heuberg,06.09.33,Gipser
+Israel,Willi,1,07.08.33,06.09.33,,m,nein,Heuberg,06.09.33,Schreiner
+Pöhn,Karl,1,07.08.33,22.08.33,,m,ja,,,Schneider
+Gassel,Josef,1,07.08.33,22.08.33,,m,ja,,,Schreiner
+Eppinger,Karl,3,07.08.33,22.08.33,,m,ja,,,Schreiner
+Pähr,Christian,1,07.08.33,22.08.33,,m,ja,,,Schiffer
+Hoffmann,Johann,1,11.08.33,14.08.33,,m,ja,,,Schuhmacher
+Haarfeld,Justus,1,13.08.33,14.08.33,,m,ja,,,Tagelöhner
+Knotz,Engelbert,1,20.08.33,21.08.33,,m,ja,,,Fabrikangestellter
+Kügel,Jakob,1,21.08.33,06.09.33,,m,ja,,,Friseur
+Weingerling,Martin,1,22.08.33,06.09.33,,m,ja,,,Tagelöhner
+Fritsche,Richard,1,22.08.33,10.09.33,,m,ja,,,Bäcker
+Wolf,Rosa,1,22.08.33,29.08.33,,f,ja,,,Verkäuferin
+Kuhn,Sofie,1,22.08.33,29.08.33,,f,ja,,,Studentin
+Eppstein,Berta,1,22.08.33,29.08.33,,f,ja,,,Hausfrau
+Böhner,Ilse,1,22.08.33,29.08.33,,f,ja,,,Konto…?
+Körbel,Georg,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Schumacher
+Benz,Franz,2,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Zimmermann
+Fischer,Ernst,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,?
+Bürgermeister Jean,,0,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Schreiner
+Bender,Josef,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Arbeiter
+Riafa,Eugen,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Schlosser
+Meisel,Wilhelm,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Spengler
+Hammerstein,Karl,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Schreiner
+Fischer,Alois,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Schlosser
+Friedrich,Philipp,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Dreher
+Berlinghof,Hans,1,22.08.33,22.08.33,,m,nein,reguläre Haftanstalt,22.08.33,Installateur
+Segmüller,Friedrich,1,22.08.33,30.08.33,,m,ja,,,Arbeiter
+Wieland,Ludwig,1,22.08.33,23.08.33,,m,ja,,,Arbeiter
+Schüsler,Willi,1,22.08.33,23.08.33,,m,ja,,,Wirt
+Lichtenberger,Robert,1,22.08.33,23.08.33,,m,ja,,,Schlosser
+Ihrig,Georg,2,22.08.33,23.08.33,,m,ja,,,Markt…
+Schröder,Karl,1,22.08.33,23.08.33,,m,ja,,,Laborant
+Hamleh,Fjodor,1,22.08.33,23.08.33,,m,ja,,,Heizer
+Rimmler,Fritz,2,22.08.33,23.08.33,,m,ja,,,Wirt
+Gärtner,Hans,2,22.08.33,23.08.33,,m,ja,,,Hoteldiener
+Heilberer,Fritz,1,22.08.33,23.08.33,,m,ja,,,Bauarbeiter
+Weber,Hermann,1,22.08.33,23.08.33,,m,ja,,,Schlosser
+Hoffmann,Mathias,3,22.08.33,23.08.33,,m,ja,,,Maler
+Rühle,Hans,1,22.08.33,23.08.33,,m,ja,,,Arbeiter
+Ripp,Otto,1,22.08.33,23.08.33,,m,ja,,,Kunststeinarbeiter
+Steiger,Heinrich,1,22.08.33,23.08.33,,m,ja,,,Kaufmann
+Schmidt,Willi,1,22.08.33,23.08.33,,m,ja,,,Kraftfahrer
+Bastian,Fritz,1,22.08.33,23.08.33,,m,ja,,,Maschinenschlosser
+Müller,Alfons,1,22.08.33,03.10.33,,m,ja,,,Laborant
+Schütze,Hans,1,22.08.33,23.08.33,,m,ja,,,Kaufmann
+Fehrentz,Heinrich,1,22.08.33,23.08.33,,m,ja,,,Schlosser
+Jost,Wilhelm,1,22.08.33,23.08.33,,m,ja,,,Kaufmann
+Retzbach,Adolf,1,22.08.33,23.08.33,,m,ja,,,Maler
+Meinzin,Josef,1,22.08.33,23.08.33,,m,ja,,,Maschinist
+Schnaible,Wilhelm,1,23.08.33,23.08.33,,m,ja,,,Zugführer
+Schönhaar,Josefin,1,25.08.33,31.08.33,,f,ja,,,ohne Beruf
+Wöller,Wilhelm,1,30.08.33,01.09.33,,m,ja,,,Schlosser
+Greulich,Eugen,1,02.09.33,11.09.33,,m,ja,,,Landarbeiter
+Freitag geb.Fring,Rosa,1,02.09.33,11.09.33,,f,ja,,,Hausdame
+Büchler,Adam,1,02.09.33,11.09.33,,m,ja,,,Arbeiter
+Laibonritsch,Simon,1,05.09.33,06.09.33,,m,nein,Heuberg,06.09.33,Händler
