@@ -1,4 +1,4 @@
-#1 ) Gib alle Zahlen von 1 - 100 aus
+# 1 ) Gib alle Zahlen von 1 - 100 aus
 
 n = 0
 while(n < 100):
