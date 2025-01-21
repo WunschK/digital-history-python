@@ -34,7 +34,7 @@ df['Entlassung'] = pd.to_datetime(df['Entlassung'],format='%d.%m.%y')
 
 df['duration (days)'] = (df['Entlassung'] - df['Einlieferung']).dt.days
 
-
+print(df.head())
 
 
 # Create the bar chart
