@@ -81,6 +81,8 @@ def filter_and_plot_from_file(filepath, min_days=None, max_days=None):
     # Todo 10: Display the bar chart
 
 
+    pass
+
 
 
 
